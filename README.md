@@ -20,3 +20,5 @@ Sus tareas principales son:
 <li>Escribir datos en la memoria</li>
 
 </ol>
+
+<img src="procesador01.-CPU.jpg" width="300">
