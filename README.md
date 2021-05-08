@@ -14,6 +14,6 @@ El procesador o CPU (Central Processing Unit) es el cerebro de la computadora. S
 
 Sus tareas principales son:
 
--Leer los datos en la memoria.
--Procesar los datos.
--Escribir datos en la memoria.
+1.Leer los datos en la memoria.
+2.Procesar los datos.
+3.Escribir datos en la memoria.
