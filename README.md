@@ -38,18 +38,18 @@ Almacena información en forma binaria. Actualmente, son capaces de almacenar va
 
 <img src="R64ea8499a62347f686f5206053e31ccb.jpg" width="300">
 
-<strong>Placa madre</strong>
+<h>Modelo OSI </h>
+<p>
+  es un modelo de referencia para los protocolos de comunicación de las redes informáticas o redes de computadores.
+  Fue creado en la década de 1980 por la Organización Internacional de Normalización (ISO).
+</p>
 
-Es el componente principal de la unidad central. Centraliza y procesa los datos intercambiados dentro de la computadora usando el procesador. Maneja el disco duro, el teclado, el ratón, la red, los puertos USB...
+<p>
+ El funcionamiento del Modelo OSI depende directamente de sus siete capas, en las que descompone el complicado proceso de la comunicación digital. Al compartimentarlo, asigna a cada capa funciones muy específicas, dentro de una estructura jerárquica fija.
+<br>
+Así, cada protocolo de comunicación emplea estas capas en su totalidad o sólo algunas de ellas, pero al obedecer este conjunto de reglas, garantiza que la comunicación entre las redes sea eficaz y sobre todo que se de en los mismos términos.
+</p>
+  
 
-Es el soporte en el que todos los componentes de una computadora están conectados.
 
-<img src="placa.jpg" width="300">
-
-<strong>Fuente de alimentacion</strong>
-Por supuesto, sin la corriente eléctrica, la PC no funcionará.
-
-Este bloque transforma y suministra la energía necesaria a la placa base, pero también está conectado a algunos componentes, como el reproductor/grabadora de DVD, por ejemplo.
-
-La transformación de la corriente causa una pérdida de energía en forma de calor, por lo que la computadora cuenta con un sistema de ventilación que expulsa aire a través de la parte posterior de la carcasa de la computadora.
 
