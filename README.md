@@ -44,6 +44,6 @@ Es el componente principal de la unidad central. Centraliza y procesa los datos 
 
 Es el soporte en el que todos los componentes de una computadora están conectados.
 
-
+<img src="placa.jpg" width="300">
 
 
