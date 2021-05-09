@@ -46,4 +46,10 @@ Es el soporte en el que todos los componentes de una computadora están conectad
 
 <img src="placa.jpg" width="300">
 
+<strong>Fuente de alimentacion</strong>
+Por supuesto, sin la corriente eléctrica, la PC no funcionará.
+
+Este bloque transforma y suministra la energía necesaria a la placa base, pero también está conectado a algunos componentes, como el reproductor/grabadora de DVD, por ejemplo.
+
+La transformación de la corriente causa una pérdida de energía en forma de calor, por lo que la computadora cuenta con un sistema de ventilación que expulsa aire a través de la parte posterior de la carcasa de la computadora.
 
