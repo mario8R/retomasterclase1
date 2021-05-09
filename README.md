@@ -36,7 +36,7 @@ Almacena información en forma binaria. Actualmente, son capaces de almacenar va
 
 </ol> 
 
-<img src="DISCODURO.-CPU.jpg" width="300">
+<img src="R64ea8499a62347f686f5206053e31ccb.jpg" width="300">
 
 
 
