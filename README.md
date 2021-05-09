@@ -22,3 +22,7 @@ Sus tareas principales son:
 </ol>
 
 <img src="procesador01.-CPU.jpg" width="300">
+
+<h2>Modelo OSI</h2>
+<P>es un modelo de referencia para los protocolos de comunicación de las redes informáticas o redes de computadores. Fue creado en la década de 1980 por la Organización Internacional de Normalización (ISO).
+</p>
