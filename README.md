@@ -38,5 +38,7 @@ Almacena información en forma binaria. Actualmente, son capaces de almacenar va
 
 <img src="R64ea8499a62347f686f5206053e31ccb.jpg" width="300">
 
+<h>el bullys se asusto</h>
+
 
 
