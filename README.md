@@ -38,5 +38,12 @@ Almacena información en forma binaria. Actualmente, son capaces de almacenar va
 
 <img src="R64ea8499a62347f686f5206053e31ccb.jpg" width="300">
 
+<strong>Placa madre</strong>
+
+Es el componente principal de la unidad central. Centraliza y procesa los datos intercambiados dentro de la computadora usando el procesador. Maneja el disco duro, el teclado, el ratón, la red, los puertos USB...
+
+Es el soporte en el que todos los componentes de una computadora están conectados.
+
+
 
 
